@@ -1,0 +1,15 @@
+Orgullo y prejuicio;Jane Austen;Aventuras;20
+Emma;Jane Austen;Misterio;15
+Persuasion;Jane Austen;Ensayo;10
+Novelas Completas;Jane Austen;Ensayo;10
+Orlando;Virginia Woolf;Policiaca;40
+El Quijote de la Mancha;Miguel de Cervantes;Aventuras;120
+Entremeses;Miguel de Cervantes;Misterio;7
+La transformación;Frank Kafka;Ensayo;14
+Diarios;Frank Kafka;Misterio;31
+Un médico rural;Frank Kafka;Policiaca;11
+El Pirlo;Miguel de Cervantes;Misterio;10.99
+El frances;Virginia Woolf;Misterio;12.99
+La Guioconda;Jane Austen;Policiaca;12.8
+Fernando Alonso;Frank Kafka;Misterio;10.99
+Ave Maria;Miguel de Cervantes;Misterio;39.75
